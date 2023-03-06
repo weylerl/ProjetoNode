@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "caneta amarela",
+        "preco": 23,
+        "id": "0c39d095-3eb5-4f9b-8f82-737aff565a45"
+    },
+    {
+        "nome": "caneta amarela",
+        "preco": 23,
+        "id": "0db1bb48-6fe8-4763-9701-8cb1582160b8"
+    },
+    {
+        "nome": "caneta vermelha",
+        "preco": 13,
+        "id": "0fee0629-28ac-4fd9-8117-7c0baa3e6b9d"
+    },
+    {
+        "nome": "caneta azul",
+        "preco": 10,
+        "id": "bfdf6b42-7219-460c-bb92-5272d6ec5dc5"
+    }
+]
